@@ -1,3 +1,7 @@
+/* Author : Vansh Kumar
+  Date : 2025-09-24
+  Description: Recursive function of finding fibonacci number.
+*/
 #include<iostream>
 using namespace std;
 
