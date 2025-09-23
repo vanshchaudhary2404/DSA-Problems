@@ -1,3 +1,7 @@
+/* Author : Vansh Kumar
+  Date : 2025-09-24
+  Description:  Reverse an array recursively Using  single pointer.
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
