@@ -1,3 +1,7 @@
+/* Author : Vansh Kumar
+  Date : 2025-09-24
+  Description:  Check If the string is plaindrom or not using recursion.
+*/
 #include<iostream>
 using namespace std;
 
