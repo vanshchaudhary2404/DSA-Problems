@@ -1,3 +1,7 @@
+/* Author : Vansh Kumar
+  Date : 2025-09-24
+  Description: Factorial of N using recursion 
+*/
 #include<iostream>
 using namespace std;
 
