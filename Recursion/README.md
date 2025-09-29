@@ -15,3 +15,4 @@
 - check if a string is palindrome or not.
 - Fibonacci Number (Multiple Recurvive call).
 - Reverse String.
+- Binary Search.
