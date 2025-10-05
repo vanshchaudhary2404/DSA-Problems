@@ -19,3 +19,5 @@
 - Subsets.
 - Subsets II.
 - Permutations.
+- Permutations II.
+- N-Queens.
