@@ -21,3 +21,4 @@
 - Permutations.
 - Permutations II.
 - N-Queens.
+- N-Queens II
