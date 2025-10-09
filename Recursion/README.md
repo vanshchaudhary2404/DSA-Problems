@@ -21,4 +21,5 @@
 - Permutations.
 - Permutations II.
 - N-Queens.
-- N-Queens II
+- N-Queens II.
+- Sudoku.
