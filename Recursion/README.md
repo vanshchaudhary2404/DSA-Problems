@@ -18,6 +18,7 @@
 - Binary Search.
 - Subsets.
 - Subsets II.
+- Subset Sums.
 - Permutations.
 - Permutations II.
 - N-Queens.
