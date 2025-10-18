@@ -16,6 +16,7 @@
 - Fibonacci Number (Multiple Recurvive call).
 - Reverse String.
 - Binary Search.
+- Merge Sort
 - Subsets.
 - Subsets II.
 - Subset Sums.
