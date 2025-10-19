@@ -17,6 +17,7 @@
 - Reverse String.
 - Binary Search.
 - Merge Sort
+- Quick Sort
 - Subsets.
 - Subsets II.
 - Subset Sums.
