@@ -21,12 +21,11 @@ void helper(vector<vector<int>> &mat ,  int r , int c , string path , vector<str
     return;
   }
   vis[r][c] = true;
-  //Recursive calls
-  helper(mat, r+1, c , path+"D", ans , vis );//down 
-  helper(mat, r-1, c , path+"U", ans , vis );//up
-  helper(mat, r, c-1 , path+"L", ans , vis );//left
-  helper(mat, r, c+1 , path+"R", ans , vis );//right
-
+  //Recursive calls// Explore in lexicographical order: D, L, R, U
+  helper(mat, r+1, c , path+"D", ans );//down
+  helper(mat, r, c-1 , path+"L", ans );//left
+  helper(mat, r, c+1 , path+"R", ans );//right
+  helper(mat, r-1, c , path+"U", ans );//up
   vis[r][c] = false;
 }
 
@@ -36,6 +35,7 @@ vector<string> findPath(vector<vector<int>> &mat){
   string path = "";
   vector<vector<bool>> vis(n, vector<bool>(n, false));
   helper( mat , 0 , 0 , path , ans, vis);//matrix , row , col , path(UP , Down , Left , Right) , ans;
+  sort(ans.begin(), ans.end());
   return ans;
 }
 
@@ -64,10 +64,11 @@ void helper(vector<vector<int>> &mat ,  int r , int c , string path , vector<str
 
   mat[r][c] = -1;
   //Recursive calls
-  helper(mat, r+1, c , path+"D", ans );//down 
-  helper(mat, r-1, c , path+"U", ans );//up
-  helper(mat, r, c-1 , path+"L", ans );//left
+  // Explore in lexicographical order: D, L, R, U
+  helper(mat, r+1, c , path+"D", ans );//down
+    helper(mat, r, c-1 , path+"L", ans );//left
   helper(mat, r, c+1 , path+"R", ans );//right
+  helper(mat, r-1, c , path+"U", ans );//up
 
   mat[r][c] = 1;
 }
@@ -78,6 +79,7 @@ vector<string> findPath(vector<vector<int>> &mat){
   string path = "";
 
   helper( mat , 0 , 0 , path , ans);//matrix , row , col , path(UP , Down , Left , Right) , ans;
+  sort(ans.begin(),ans.end());
   return ans;
 }
 
