@@ -22,10 +22,10 @@ void helper(vector<vector<int>> &mat ,  int r , int c , string path , vector<str
   }
   vis[r][c] = true;
   //Recursive calls// Explore in lexicographical order: D, L, R, U
-  helper(mat, r+1, c , path+"D", ans );//down
-  helper(mat, r, c-1 , path+"L", ans );//left
-  helper(mat, r, c+1 , path+"R", ans );//right
-  helper(mat, r-1, c , path+"U", ans );//up
+  helper(mat, r+1, c , path+"D", ans , vis);//down
+  helper(mat, r, c-1 , path+"L", ans , vis);//left
+  helper(mat, r, c+1 , path+"R", ans , vis);//right
+  helper(mat, r-1, c , path+"U", ans , vis);//up
   vis[r][c] = false;
 }
 
