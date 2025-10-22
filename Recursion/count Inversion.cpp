@@ -2,6 +2,13 @@
   Date : 2025-09-30
   Description: Count Inversion.
 */
+/*What is Inversion pair?
+arr[] = { 6, 3, 5, 2, 7 }
+(arr[i] , arr[j] )
+Conditions to be satisfy 
+1. i < j.
+2. arr[i] > arr[j].
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
