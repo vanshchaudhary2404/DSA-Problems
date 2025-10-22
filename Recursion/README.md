@@ -31,3 +31,4 @@
 - Rat In Maze.
 - Palindrome Partitions.
 - Count Inversion.
+- Knight Tour.
