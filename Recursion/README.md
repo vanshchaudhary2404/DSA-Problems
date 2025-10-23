@@ -33,3 +33,4 @@
 - Count Inversion.
 - Knight Tour.
 - M-coloring Problem.
+- Kth Permutation Sequence.
