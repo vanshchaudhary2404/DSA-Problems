@@ -5,8 +5,9 @@
 - Unique number of Occurrences
 - Product of Array Except Self.
 - Best Time to Buy and Sell Stock.
-- Maximum Subarray.
+- Maximum Subarray/Kadane's Algo.
 - Pair Sum in a Sorted and Rotated Array.
 - Largest number
 - Sort color.
+
 
