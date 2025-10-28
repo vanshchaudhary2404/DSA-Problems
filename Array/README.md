@@ -6,3 +6,5 @@
 - Best Time to Buy and Sell Stock.
 - Maximum Subarray.
 - Pair Sum in a Sorted and Rotated Array.
+- Largest number
+- Sort color.
