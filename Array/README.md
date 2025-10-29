@@ -12,7 +12,9 @@
 - Container With Most Water.
 - Second Largest | Second smallest.
 - Check if array is sorted and rotated.
+- Remove Duplicates from Sorted Array.
 - Sort color
+
 
 
 
