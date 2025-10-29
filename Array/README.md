@@ -3,14 +3,16 @@
 - Majority Element.
 - Single Number.
 - Pow(x, n).
-- Unique number of Occurrences
+- Unique number of Occurrences.
 - Product of Array Except Self.
 - Best Time to Buy and Sell Stock.
 - Maximum Subarray/Kadane's Algo.
 - Pair Sum in a Sorted and Rotated Array.
 - Largest number.
 - Container With Most Water.
-- Sort color.
+- Second Largest | Second smallest.
+- Sort color
+
 
 
 
