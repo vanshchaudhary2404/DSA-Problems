@@ -11,7 +11,9 @@
 - Largest number.
 - Container With Most Water.
 - Second Largest | Second smallest.
+- Check if array is sorted and rotated.
 - Sort color
+
 
 
 
