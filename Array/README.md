@@ -14,7 +14,9 @@
 - Check if array is sorted and rotated.
 - Remove Duplicates from Sorted Array.
 - Contains Duplicate.
+- Move Zeroes.
 - Sort color
+
 
 
 
