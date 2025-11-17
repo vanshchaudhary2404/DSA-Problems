@@ -17,6 +17,7 @@
 - Move Zeroes.
 - Rotate Array.
 - Sort color
+- Intersection of two sorted rotated array.
 
 
 
