@@ -16,8 +16,11 @@
 - Contains Duplicate.
 - Move Zeroes.
 - Rotate Array.
-- Sort color
 - Intersection of two sorted rotated array.
+-  Sort color. (Need to add in excel)
+-  Merge Sorted array. (Need to add in excel)
+-  Next Permutation. (Need to add in excel)
+
 
 
 
