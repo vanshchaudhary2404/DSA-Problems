@@ -22,6 +22,8 @@
 -  Next Permutation. (Need to add in excel)
 -  Max Consecutive Ones (Need to add in excel)
 -  Missing number (Need to add in excel)
+-  Max consecutive Ones (Need to add in excel)
+
 
 
 
