@@ -5,7 +5,7 @@
 class Solution {
 public:
 //Brute force Using count 
-// Opptimal Approach :using Two pointer and Unordered Map;
+// Opptimal Approach :using PreficSum Hash Logic
     int subarraySum(vector<int>& nums, int k) {
         int n = nums.size();
         int count =0;
