@@ -24,7 +24,8 @@
 -  Missing number (Need to add in excel)
 -  Max consecutive Ones (Need to add in excel)
 -  Subarray sum equals to K (Need to add in excel)
--  
+-  2 Sum. (Need to add in excel).
+
 
 
 
