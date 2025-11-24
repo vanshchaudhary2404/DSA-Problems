@@ -25,6 +25,8 @@
 -  Max consecutive Ones (Need to add in excel)
 -  Subarray sum equals to K (Need to add in excel)
 -  2 Sum. (Need to add in excel).
+-  Find Missing and Repeated Values.(Need to add in excel)
+
 
 
 
