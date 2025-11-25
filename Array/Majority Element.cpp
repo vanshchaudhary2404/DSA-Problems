@@ -50,12 +50,16 @@ using namespace std;
 
 //Moore's Voting Algorithm(more optimised Approach) T.C = O(n) , S.C = O(1)
     int majorityElement(vector<int>& nums) {
-        int candidate = 0, count = 0;
-        for (int num : nums) {
-            if (count == 0) candidate = num;
-            count += (num == candidate) ? 1 : -1;
+        int freq = 0, ans = 0;
+        for (int i=0; i<nums.size(); i++) {
+            if (freq == 0)
+                ans = nums[i];
+            if( ans ==  nums[i] )
+                freq++;
+            else 
+                freq--;
         }
-        return candidate;
+        return ans;
     }
 
 
