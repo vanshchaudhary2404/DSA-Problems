@@ -62,25 +62,28 @@ public:
         return ans;*/
 
         //Optimal Approach:T.C = O(n^2) , S.C = O(uniqueTriplet);
-        int n = a.size();
+       int n = a.size();
         vector<vector<int>> ans;
         sort( a.begin() , a.end());
 
         for(int i=0; i<n; i++){
-            int j= i+1, k= n-1;
             if( i >0 && a[i] == a[i-1]) continue;
+            if (a[i] > 0) break;
+            int j= i+1, k= n-1;
+            
 
             while( j < k){
-                int sum = a[i]+a[j]+a[k];
+                long sum = (long)a[i]+a[j]+a[k];
                 if( sum < 0) j++;
                 else if( sum > 0) k--;
                 else{
                     ans.push_back( {a[i] , a[j] ,a[k]});
                     j++;
                     k--;
+                    while( j< k && a[j] == a[j-1]) j++;
+                    // skip duplicates for k
+                    while(j < k && a[k] == a[k + 1]) k--;
                 }
-
-                while( j>0 && a[j] == a[j-1]) j++;
             }
         }
         return ans;
