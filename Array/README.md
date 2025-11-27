@@ -28,6 +28,7 @@
 -  Find Missing and Repeated Values.(Need to add in excel)
 -  Find the Duplicate Number. (Need to add in excel)
 -  3 Sum (Need to add in excel)
+-  4 Sum (Need to add in excel)
 
 
 
