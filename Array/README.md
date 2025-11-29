@@ -30,6 +30,8 @@
 -  3 Sum (Need to add in excel)
 -  4 Sum (Need to add in excel)
 -  Rearrange Array Elements by Sign (Need to add in excel).
+-  Longest Consecutive Sequence (Need to add in excel). 
+
 
 
 
