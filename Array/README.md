@@ -31,7 +31,11 @@
 -  4 Sum (Need to add in excel)
 -  Rearrange Array Elements by Sign (Need to add in excel).
 -  Longest Consecutive Sequence (Need to add in excel).
--  Set Matrix Zeroes (Need to add in excel).
+-  2D ARRAY -> Set Matrix Zeroes (Need to add in excel).
+-  2D ARRAY -> Rotate Image (Need to add in excel).
+-  2D ARRAY -> Spiral Matrix (Need to add in excel).
+-  2D ARRAY -> Pascal's Triangle.
+
 
 
 
