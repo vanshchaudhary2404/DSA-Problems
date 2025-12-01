@@ -36,6 +36,7 @@
 -  2D ARRAY -> Spiral Matrix (Need to add in excel).
 -  2D ARRAY -> Pascal's Triangle. (Need to add in excel).
 -  Majority Element II. (Need to add in excel).
+-  Pascal's Triangle II. (Need to add in excel).
 
 
 
