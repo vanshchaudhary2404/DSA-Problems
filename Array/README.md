@@ -34,7 +34,9 @@
 -  2D ARRAY -> Set Matrix Zeroes (Need to add in excel).
 -  2D ARRAY -> Rotate Image (Need to add in excel).
 -  2D ARRAY -> Spiral Matrix (Need to add in excel).
--  2D ARRAY -> Pascal's Triangle.
+-  2D ARRAY -> Pascal's Triangle. (Need to add in excel).
+-  Majority Element II. (Need to add in excel).
+
 
 
 
