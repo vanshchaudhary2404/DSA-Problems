@@ -41,3 +41,4 @@
 -  Largest subarray with 0 sum. (Need to add in excel).
 -  Count Inversion. (Need to add in excel).
 -  Reverse Pairs. (Need to add in excel).
+-  Maximum Product Subarray. (Need to add in excel).
