@@ -1,0 +1,12 @@
+# Problems ->>
+- Reverse Linked List.
+- Reverse Linked List ||.
+- Middle of the Linked List.
+- Linked List Cycle.
+-  Linked List Cycle II.
+-  Merge Two Sorted Lists.
+-  Copy List with Random Pointer.
+-  Flatten a Multilevel Doubly Linked List.
+-  Reverse Nodes in k-Group.
+-  Reverse Nodes in k-Group.
+-  LRU Cache.
