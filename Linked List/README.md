@@ -10,3 +10,4 @@
 -  Reverse Nodes in k-Group.
 -  Reverse Nodes in k-Group.
 -  LRU Cache.
+-  Delete Node in a Linked List.
