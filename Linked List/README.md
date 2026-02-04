@@ -28,7 +28,7 @@ This repository contains solutions to important **Linked List** and **Design** p
 |18 | Intersection of Two Linked Lists | Easy | https://leetcode.com/problems/intersection-of-two-linked-lists/ |
 |19 | Delete the Middle Node of a Linked List | Medium | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ |
 |20 | Rotate List | Medium | https://leetcode.com/problems/rotate-list/ |
----------------------------------------------------------------------------------
+|--| ----------- | ------ | ------------------------------------------ |
 |21 | Remove Linked List Elements | Easy | https://leetcode.com/problems/remove-linked-list-elements/ |
 |22 | Swap Nodes in Pairs | Medium | https://leetcode.com/problems/swap-nodes-in-pairs/ |
 |23 | Partition List | Medium | https://leetcode.com/problems/partition-list/ |
