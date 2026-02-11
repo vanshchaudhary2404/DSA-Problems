@@ -4,4 +4,7 @@
 - Next Greater Element I
 - Next Greater Element II
 - Previous Smaller Element.
-- Min Stack
+- Min Stack.
+- Largest Rectangle in Histogram.
+- Trapping Rain Water.
+- The Celebrity Problem.
