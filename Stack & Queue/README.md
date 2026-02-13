@@ -31,6 +31,9 @@ Each solution includes:
 | 8️⃣ | Trapping Rain Water | LeetCode | [Solve Here](https://leetcode.com/problems/trapping-rain-water/) |
 | 9️⃣ | The Celebrity Problem | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 | 🔟 | LRU Cache | LeetCode | [Solve Here](https://leetcode.com/problems/lru-cache/) |
+| --| ---------- | ---------- | ------------------------------------------------------|
+| 11 | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
+
 
 ---
 
