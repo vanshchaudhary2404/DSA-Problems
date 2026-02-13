@@ -32,8 +32,12 @@ Each solution includes:
 | 9️⃣ | The Celebrity Problem | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 | 🔟 | LRU Cache | LeetCode | [Solve Here](https://leetcode.com/problems/lru-cache/) |
 | --| ---------- | ---------- | ------------------------------------------------------|
-| 11 | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
-
+-  Sum of Subarray Minimums.
+-  Sum of Subarray Ranges.
+-   Asteroid Collision.
+-   Remove K Digits.
+|  | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
+-  Implement Queue using Stacks.
 
 ---
 
