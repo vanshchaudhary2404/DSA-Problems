@@ -38,6 +38,7 @@ Each solution includes:
 | 15 | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 16 | Implement Queue using Stacks | LeetCode | [Solve Here](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 17 | Maximal Rectangle | LeetCode | [Solve Here](https://leetcode.com/problems/maximal-rectangle/) |
+| 18 | Sort a Stack | LeetCode | [Solve Here](https://www.geeksforgeeks.org/problems/sort-a-stack/1) |
 
 ---
 
