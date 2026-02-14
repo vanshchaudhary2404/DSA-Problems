@@ -37,7 +37,7 @@ Each solution includes:
 | 14 | Remove K Digits | LeetCode | [Solve Here](https://leetcode.com/problems/remove-k-digits/) |
 | 15 | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 16 | Implement Queue using Stacks | LeetCode | [Solve Here](https://leetcode.com/problems/implement-queue-using-stacks/) |
-
+| 17 | Maximal Rectangle | LeetCode | [Solve Here](https://leetcode.com/problems/maximal-rectangle/) |
 
 ---
 
