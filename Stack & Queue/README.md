@@ -40,6 +40,8 @@ Each solution includes:
 | 17 | Maximal Rectangle | LeetCode | [Solve Here](https://leetcode.com/problems/maximal-rectangle/) |
 | 18 | Sort a Stack | LeetCode | [Solve Here](https://www.geeksforgeeks.org/problems/sort-a-stack/1) |
 | 19 | Delete Mid of a Stack | LeetCode | [Solve Here](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |
+| 20 | First Unique character in a string | LeetCode | [Solve Here](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+
 
 
 ---
