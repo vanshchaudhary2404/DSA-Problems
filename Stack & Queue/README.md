@@ -42,6 +42,7 @@ Each solution includes:
 | 19 | Delete Mid of a Stack | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |
 | 20 | First Unique character in a string | LeetCode | [Solve Here](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 21 | Reverse first k of a Queue | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) |
+| 22 |  Time Needed to Buy Tickets | LeetCode | [Solve Here](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) |
 
 ---
 
