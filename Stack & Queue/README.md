@@ -38,11 +38,10 @@ Each solution includes:
 | 15 | Implement Stack using Queues | LeetCode | [Solve Here](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 16 | Implement Queue using Stacks | LeetCode | [Solve Here](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 17 | Maximal Rectangle | LeetCode | [Solve Here](https://leetcode.com/problems/maximal-rectangle/) |
-| 18 | Sort a Stack | LeetCode | [Solve Here](https://www.geeksforgeeks.org/problems/sort-a-stack/1) |
-| 19 | Delete Mid of a Stack | LeetCode | [Solve Here](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |
+| 18 | Sort a Stack | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/sort-a-stack/1) |
+| 19 | Delete Mid of a Stack | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |
 | 20 | First Unique character in a string | LeetCode | [Solve Here](https://leetcode.com/problems/first-unique-character-in-a-string/) |
-
-
+| 21 | Reverse first k of a Queue | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) |
 
 ---
 
