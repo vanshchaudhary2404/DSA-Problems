@@ -7,3 +7,4 @@
 - Painter’s Partition.
 - Aggressive cows.
 - Median of 2 Sorted Arrays.
+- Binary Search.
