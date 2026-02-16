@@ -44,7 +44,7 @@ Each solution includes:
 | 21 | Reverse first k of a Queue | GFG | [Solve Here](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) |
 | 22 |  Time Needed to Buy Tickets | LeetCode | [Solve Here](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) |
 | 23 | Sliding Window Maximum | LeetCode | [Solve Here](https://leetcode.com/problems/sliding-window-maximum/) |
-| 24 | Gas Station | LeetCode | Leetcode | [Solve Here](https://leetcode.com/problems/gas-station/) |
+| 24 | Gas Station | LeetCode | Leetcode | [Solve Here](https://leetcode.com/problems/gas-station/)|
 
 ---
 
