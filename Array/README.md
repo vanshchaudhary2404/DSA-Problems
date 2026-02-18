@@ -39,7 +39,7 @@ It covers concepts like:
 | 16 | Move Zeroes | LeetCode | https://leetcode.com/problems/move-zeroes/ |
 | 17 | Rotate Array | LeetCode | https://leetcode.com/problems/rotate-array/ |
 | 18 | Intersection of Two Arrays | LeetCode | https://leetcode.com/problems/intersection-of-two-arrays/ |
-| 19 | Sort Colors (Dutch National Flag) | LeetCode | https://leetcode.com/problems/sort-colors/ |
+| 19 | Sort Colors (Dutch National Flag) N.T.D | LeetCode | https://leetcode.com/problems/sort-colors/ |
 | 20 | Merge Sorted Array | LeetCode | https://leetcode.com/problems/merge-sorted-array/ |
 | 21 | Next Permutation | LeetCode | https://leetcode.com/problems/next-permutation/ |
 | 22 | Max Consecutive Ones | LeetCode | https://leetcode.com/problems/max-consecutive-ones/ |
