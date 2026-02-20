@@ -4,5 +4,18 @@
 - Remove All Occurrences of a Substring.
 - Permuatation in String.
 - Reverse Words in a String.
--  Reverse Words in a String III.
--  String compression.
+- Reverse Words in a String III.
+- String compression.
+- Remove Outermost Parentheses
+- Reverse Words in a String
+- Largest Odd Number in String
+- Longest Common Prefix
+- Isomorphic Strings
+- Rotate String
+- Valid Anagram
+- Sort Characters By Frequency
+- Maximum Nesting Depth of the Parentheses
+- Roman to Integer
+- String to Integer (atoi)
+- Longest Substring Without Repeating Characters
+- Max Consecutive Ones III
