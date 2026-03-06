@@ -19,8 +19,6 @@ public:
             if( tolower(s[st]) != tolower(s[end])){
                 return false;
             } 
-            st++;
-            end--;
         }
         return true;
     }
