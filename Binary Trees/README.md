@@ -3,3 +3,4 @@
 - Binary Tree Inorder Traversal
 - Binary Tree Postorder Traversal
 - Binary Tree Level Order Traversal
+- Diameter of Binary Tree
