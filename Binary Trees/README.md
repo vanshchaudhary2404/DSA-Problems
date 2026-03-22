@@ -5,3 +5,4 @@
 - Binary Tree Level Order Traversal
 - Diameter of Binary Tree
 - Maximum Depth of Binary Tree
+- Balanced Binary Tree
