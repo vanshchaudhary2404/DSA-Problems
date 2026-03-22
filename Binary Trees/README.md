@@ -7,6 +7,7 @@
 - Maximum Depth of Binary Tree
 - Balanced Binary Tree
 - Binary Tree Maximum Path Sum
--  Same Tree (Check if two trees are identical or not)
--  Binary Tree Zigzag Level Order Traversal.
--  
+- Same Tree (Check if two trees are identical or not)
+- Binary Tree Zigzag Level Order Traversal.
+- Boundary Traversal
+- Binary Tree Zigzag Level Order Traversal
