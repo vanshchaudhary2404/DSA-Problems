@@ -10,4 +10,3 @@
 - Same Tree (Check if two trees are identical or not)
 - Binary Tree Zigzag Level Order Traversal.
 - Boundary Traversal
-- Binary Tree Zigzag Level Order Traversal
