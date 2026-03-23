@@ -18,3 +18,4 @@
 - Left View of Binary Tree
 - Root to Leaf Paths
 - Root to Leaf Node(Target)
+- Binary Tree Paths
