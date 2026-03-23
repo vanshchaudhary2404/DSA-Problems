@@ -16,3 +16,5 @@
 - Binary Tree Right Side View
 - Right View of Binary Tree
 - Left View of Binary Tree
+- Root to Leaf Paths
+- Root to Leaf Node(Target)
