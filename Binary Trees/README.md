@@ -11,3 +11,4 @@
 - Binary Tree Zigzag Level Order Traversal.
 - Boundary Traversal
 - Vertical Order Traversal of a Binary Tree
+- Top View of Binary Tree
