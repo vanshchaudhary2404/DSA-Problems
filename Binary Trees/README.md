@@ -12,3 +12,4 @@
 - Boundary Traversal
 - Vertical Order Traversal of a Binary Tree
 - Top View of Binary Tree
+- Bottom View of Binary Tree
