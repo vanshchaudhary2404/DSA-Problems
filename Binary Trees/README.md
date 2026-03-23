@@ -15,3 +15,4 @@
 - Bottom View of Binary Tree
 - Binary Tree Right Side View
 - Right View of Binary Tree
+- Left View of Binary Tree
