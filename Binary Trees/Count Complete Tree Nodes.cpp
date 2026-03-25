@@ -3,22 +3,15 @@
   Description: Leetcode problem-222. Count Complete Tree Nodes
 */
 /*
+
 🔹 Key Optimization Idea
-
 Instead of counting every node (O(N)), we use height properties:
-
 Perfect Binary Tree nodes =
-👉 
-2
-ℎ
-−
-1
-2
-h
-−1
+👉 2^h−1
 We check if a subtree is perfect using:
 Left height (lh) → go fully left
 Right height (rh) → go fully right
+
 🔹 Core Logic
 1. Base Case
 If node is NULL → return 0
@@ -27,15 +20,12 @@ Compute:
 lh = left height
 rh = right height
 3. Compare Heights
+
 ✅ Case 1: lh == rh
 Tree is perfect
-
 Direct formula:
-
 nodes = (1 << lh) - 1
-
 (same as 2^h−1)
-
 ❌ Case 2: lh != rh
 Tree is not perfect
 Recursively count:
