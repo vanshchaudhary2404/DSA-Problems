@@ -23,4 +23,4 @@
 - Lowest Common Ancestor of a Binary Tree
 - Maximum Width of Binary Tree
 - (Leetcode)Root Equals Sum of Children.
-- Root Equals Sum of Children (VSCode).
+- Children Sum Property(VSCode).
