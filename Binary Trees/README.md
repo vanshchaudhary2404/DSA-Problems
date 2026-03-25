@@ -20,3 +20,4 @@
 - Root to Leaf Paths
 - Root to Leaf Node(Target)
 - Binary Tree Paths/Root to Leaf Paths as string
+- Lowest Common Ancestor of a Binary Tree
