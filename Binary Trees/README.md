@@ -26,3 +26,5 @@
 - Children Sum Property(VSCode).
 - Count Complete Tree Nodes
 - All Nodes Distance K in Binary Tree
+- Amount of Time for Binary Tree to Be Infected
+- Construct Binary Tree from Preorder and Inorder Traversal
