@@ -53,3 +53,141 @@ void solve(int n){
     if(n == 0) return;
     solve(n-1);
 }
+```
+
+# 🧠 Pattern Mapping (Golden Section)
+
+## 🔹 1. Basic Recursion
+- Print, Sum, Factorial  
+👉 Build intuition
+
+---
+
+## 🔹 2. Divide & Conquer
+- Merge Sort, Quick Sort, Binary Search  
+👉 Splitting problems
+
+---
+
+## 🔹 3. Backtracking (CORE 🔥)
+- Subsets  
+- Permutations  
+- N-Queens  
+- Sudoku  
+
+👉 This is **MOST IMPORTANT for interviews**
+
+---
+
+## 🔹 4. Pick / Not Pick
+- Subset Sum  
+- Combination Sum  
+
+👉 Very common DP transition
+
+---
+
+## 🔹 5. Recursion → DP Transition
+- Fibonacci  
+- Subset Sum  
+
+👉 Identify overlapping subproblems
+
+---
+
+# ⚡ Interview Strategy (Real Insight)
+
+## 🎯 Phase 1 (Must Crack Basics)
+- Basic recursion
+- Binary Search
+- Merge Sort
+
+⏱ Time: 1–2 days
+
+---
+
+## 🎯 Phase 2 (Core Backtracking)
+- Subsets
+- Permutations
+- Combination Sum
+
+⏱ Time: 2–3 days  
+
+👉 If you master this → **80% questions done**
+
+---
+
+## 🎯 Phase 3 (Advanced)
+- N-Queens
+- Sudoku
+- M-Coloring
+
+⏱ Time: 2 days  
+
+---
+
+# 🚀 How Interviewer Thinks
+
+They don’t test syntax — they test:
+
+### ✅ Can you:
+- Identify recursion pattern?
+- Draw recursion tree?
+- Optimize brute force?
+
+---
+
+# ⚠️ Common Mistakes
+
+❌ Missing base case  
+❌ Not undoing state (backtracking bug)  
+❌ Duplicate subsets  
+❌ Exponential TLE  
+
+---
+
+# 💡 Pro Insights (High Value)
+
+### 🔥 Trick 1:
+> Always visualize recursion as a TREE
+
+---
+
+### 🔥 Trick 2:
+> Backtracking = "Do → Explore → Undo"
+
+---
+
+### 🔥 Trick 3:
+> If repeated work → DP
+
+---
+
+# 🧩 DP Connection (Important)
+
+| Recursion Problem | DP Optimization |
+|------------------|----------------|
+| Fibonacci | Memoization |
+| Subset Sum | DP Table |
+| Knapsack | DP |
+
+---
+
+# ⭐ Final Advice
+
+👉 Don’t just solve — classify problem  
+👉 Patterns > Number of problems  
+👉 Revise must-do problems multiple times  
+
+---
+
+# 🏁 End Goal
+
+If you can confidently solve:
+
+- Subsets  
+- Permutations  
+- Combination Sum  
+- N-Queens  
+
+👉 You are **interview ready for recursion/backtracking**
