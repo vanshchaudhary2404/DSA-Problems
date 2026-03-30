@@ -1,3 +1,22 @@
+## 🚀 Binary Tree Interview Tips
+
+### 🔹 Core Patterns You Must Master
+- DFS Traversals → Preorder, Inorder, Postorder
+- BFS Traversal → Level Order (Queue based)
+- Tree Height / Depth problems
+- Path-based problems (Root → Leaf)
+- Tree construction (Important for interviews)
+
+---
+
+### 🔹 Golden Rules (Very Important)
+- Always think: **DFS or BFS?**
+- Use recursion for most problems (clean & fast)
+- Store results globally when needed (like diameter)
+- Understand **return type of recursion** clearly
+
+---
+
 ## 🌳 Binary Tree Problems List
 
 | # | Problem | Level | Link |
@@ -36,25 +55,6 @@
 | 32 | Morris Preorder Traversal | Medium | https://www.geeksforgeeks.org/morris-traversal-for-preorder/ |
 | 33 | Morris Inorder Traversal | Medium | https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/ |
 | 34 | Flatten Binary Tree to Linked List | Medium | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ |
-
----
-
-## 🚀 Binary Tree Interview Tips
-
-### 🔹 Core Patterns You Must Master
-- DFS Traversals → Preorder, Inorder, Postorder
-- BFS Traversal → Level Order (Queue based)
-- Tree Height / Depth problems
-- Path-based problems (Root → Leaf)
-- Tree construction (Important for interviews)
-
----
-
-### 🔹 Golden Rules (Very Important)
-- Always think: **DFS or BFS?**
-- Use recursion for most problems (clean & fast)
-- Store results globally when needed (like diameter)
-- Understand **return type of recursion** clearly
 
 ---
 
