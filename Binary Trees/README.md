@@ -29,3 +29,7 @@
 - Amount of Time for Binary Tree to Be Infected
 - Construct Binary Tree from Preorder and Inorder Traversal
 - Construct Binary Tree from Inorder and Postorder Traversal
+- Serialize and Deserialize Binary Tree
+- ( Morris Traversal )Binary Tree Preorder Traversal
+- ( Morris Traversal )Binary Tree Inorder Traversal
+- Flatten Binary Tree to Linked List
