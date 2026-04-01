@@ -5,4 +5,4 @@
 - Delete Node in a BST
 - Insert into a Binary Search Tree
 - Kth Smallest Element in a BST
-- Minimum Distance Between BST Nodes
+- Minimum Distance Between BST Nodes - distance means difference b/w root value's
