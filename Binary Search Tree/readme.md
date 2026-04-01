@@ -2,3 +2,6 @@
 - Basic Operations (Buils BST , insertion , searching , deletion).
 - Convert Sorted Array to Binary Search Tree
 - Validate Binary Search Tree
+- Delete Node in a BST
+- Insert into a Binary Search Tree
+- Kth Smallest Element in a BST
