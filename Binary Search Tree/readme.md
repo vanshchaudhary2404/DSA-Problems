@@ -6,4 +6,5 @@
 - Insert into a Binary Search Tree
 - Kth Smallest Element in a BST
 - Minimum Distance Between BST Nodes - distance means difference b/w root value's
-- Merge Two BST 
+- Merge Two BST
+- Lowest Common Ancestor of a Binary Search Tree
