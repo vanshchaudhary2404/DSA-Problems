@@ -9,4 +9,4 @@
 - Merge Two BST
 - Lowest Common Ancestor of a Binary Search Tree
 - Construct Binary Search Tree from Preorder Traversal
-- 173. Binary Search Tree Iterator
+- Binary Search Tree Iterator
