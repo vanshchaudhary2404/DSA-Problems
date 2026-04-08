@@ -5,12 +5,13 @@
 - Delete Node in a BST
 - Insert into a Binary Search Tree
 - Kth Smallest Element in a BST
-- Minimum Distance Between BST Nodes - distance means difference b/w root value's
-- Merge Two BST
-- Lowest Common Ancestor of a Binary Search Tree
-- Construct Binary Search Tree from Preorder Traversal
-- Binary Search Tree Iterator
-- Recover Binary Search Tree
-- Largest BST Size in BT
-- Maximum Sum BST in Binary Tree
-- Populating Next Right Pointers in Each Node
+- Minimum Distance Between BST Nodes - distance means difference b/w root value's.
+- Merge Two BST.
+- Lowest Common Ancestor of a Binary Search Tree.
+- Construct Binary Search Tree from Preorder Traversal.
+- Binary Search Tree Iterator.
+- Recover Binary Search Tree.
+- Largest BST Size in BT.
+- Maximum Sum BST in Binary Tree.
+- Populating Next Right Pointers in Each Node.
+- Inorder Predecessor & Successor for particular key.
