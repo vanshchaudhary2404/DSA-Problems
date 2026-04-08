@@ -1,6 +1,6 @@
 /* Author : Vansh Kumar
   Date : 2025-02-04
-  Description: Leetcode problem-Merge Two BST
+  Description: Merge Two BSTs into a Balanced BST
 */
 // T.C =O(m+n);
 #include<iostream>
