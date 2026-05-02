@@ -24,6 +24,7 @@ A structured collection of **Data Structures & Algorithms** problems, organized 
 ```
 DSA/
 │
+├── Daily challenges/
 ├── Arrays/
 ├── Strings/
 ├── Linked List/
