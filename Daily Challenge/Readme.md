@@ -8,7 +8,7 @@
 |  4    | Rotate String  |  796    |
 |  5    | Rotate List  |  61       |
 |  6   | Rotating the Box  | 1861 |
-|      |   |           |
+|  7   | Minimum Jumps to Reach End via Prime Teleportation  | 3629     |
 |      |   |           |
 |      |   |           | 
 |      |   |           |
