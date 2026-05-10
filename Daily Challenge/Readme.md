@@ -10,7 +10,7 @@
 |  6   | Rotating the Box  | 1861         |
 |  7   | Minimum Jumps to Reach End via Prime Teleportation  | 3629  |
 |  8   | Cyclically Rotating a Grid  | 1914 |
-|      |   |           | 
+|  9   | Maximum Number of Jumps to Reach the Last Index  | 2770   | 
 |      |   |           |
 |      |   |           |
 |      |   |           |
