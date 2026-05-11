@@ -12,7 +12,7 @@
 |  8   | Minimum Jumps to Reach End via Prime Teleportation  | 3629  |
 |  9   | Cyclically Rotating a Grid  | 1914 |
 |  10   | Maximum Number of Jumps to Reach the Last Index  | 2770   | 
-|      |   |           |
+|  11  | Separate the Digits in an Array  |  2553   |
 |      |   |           |
 |      |   |           |
 |      |   |           |
