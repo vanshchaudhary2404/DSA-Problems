@@ -14,7 +14,7 @@
 |  10   | Maximum Number of Jumps to Reach the Last Index  | 2770   | 
 |  11  | Separate the Digits in an Array  |  2553   |
 |  12  | Minimum Initial Energy to Finish Tasks |  1665  |
-|      |   |           |
+|  13  | Minimum Moves to Make Array Complementary  | 1674.   |
 |      |   |           |
 |      |   |           |
 |      |   |           |
