@@ -15,6 +15,6 @@
 |  11  | Separate the Digits in an Array  |  2553   |
 |  12  | Minimum Initial Energy to Finish Tasks |  1665  |
 |  13  | Minimum Moves to Make Array Complementary  | 1674.   |
-|      |   |           |
+|  14  | Check if Array is Good |  2784 |
 |      |   |           |
 |      |   |           |
