@@ -17,4 +17,9 @@
 |  13  | Minimum Moves to Make Array Complementary  | 1674.   |
 |  14  | Check if Array is Good |  2784 |
 |  15  | Find Minimum in Rotated Sorted Array  | 153 |
+|  16  | Find Minimum in Rotated Sorted Array II  | 154  |
+|      |   |           |
+|      |   |           |
+|      |   |           |
+|      |   |           |
 |      |   |           |
