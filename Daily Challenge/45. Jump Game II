@@ -1,0 +1,17 @@
+class Solution {
+public:
+//greedy + range expansion approach.
+    int jump(vector<int>& nums) {
+        int jump = 0 , st =0 , end =0;
+        while(end < nums.size()-1){
+            int far = 0;
+            for(int i=st; i<=end; i++){
+                far = max(i+nums[i] , far);
+            }
+            st = end+1;
+            end = far;
+            jump++;
+        }
+        return jump;
+    }
+};
