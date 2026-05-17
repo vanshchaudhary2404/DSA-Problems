@@ -18,7 +18,7 @@
 |  14  | Check if Array is Good |  2784 |
 |  15  | Find Minimum in Rotated Sorted Array  | 153 |
 |  16  | Find Minimum in Rotated Sorted Array II  | 154  |
-|      |   |           |
+|  17  | Jump Game III  | 1306 |
 |      |   |           |
 |      |   |           |
 |      |   |           |
