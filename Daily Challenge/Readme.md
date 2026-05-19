@@ -20,6 +20,6 @@
 |  16  | Find Minimum in Rotated Sorted Array II  | 154  |
 |  17  | Jump Game III  | 1306 |
 |  18  | Jump Game IV | 1345  |
-|      |   |           |
+|  19  | Minimum Common Value  | 2540  |
 |      |   |           |
 |      |   |           |
