@@ -21,5 +21,17 @@
 |  17  | Jump Game III  | 1306 |
 |  18  | Jump Game IV | 1345  |
 |  19  | Minimum Common Value  | 2540  |
-|      |   |           |
-|      |   |           |
+|  20 | Find the Prefix Common Array of Two Arrays  |2657  |
+| 21  | Find the Length of the Longest Common Prefix  | 3043|
+| 22  |  Search in Rotated Sorted Array | 33  |
+| 23  |  Check if Array Is Sorted and Rotated |1752|
+| 24  |  Jump Game V |1340|
+| 25  | Jump Game VII |1871|
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
