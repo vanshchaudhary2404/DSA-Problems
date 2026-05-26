@@ -27,8 +27,8 @@
 | 23  |  Check if Array Is Sorted and Rotated |1752|
 | 24  |  Jump Game V |1340|
 | 25  | Jump Game VII |1871|
-|     |   |   |
-|     |   |   |
+| 26  | Count the Number of Special Characters I |3120 |
+| 27  |  Count the Number of Special Characters II |3121 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
