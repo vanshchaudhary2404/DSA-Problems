@@ -29,7 +29,7 @@
 | 25  | Jump Game VII |1871|
 | 26  | Count the Number of Special Characters I |3120 |
 | 27  |  Count the Number of Special Characters II |3121 |
-|     |   |   |
+| 28  | Longest Common Suffix Queries | 3093 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
