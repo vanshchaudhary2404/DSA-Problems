@@ -31,7 +31,7 @@
 | 27  |  Count the Number of Special Characters II |3121 |
 | 28  | Longest Common Suffix Queries | 3093 |
 | 29  |Minimum Element After Replacement With Digit Sum |3300|
-| 30  |   |   |
+| 30  |  Block Placement Queries | 3161  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
