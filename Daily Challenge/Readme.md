@@ -32,6 +32,6 @@
 | 28  | Longest Common Suffix Queries | 3093 |
 | 29  |Minimum Element After Replacement With Digit Sum |3300|
 | 30  |  Block Placement Queries | 3161  |
-|     |   |   |
-|     |   |   |
+| 31  | Destroying Asteroids  | 2126 |
+| 32  | Minimum Cost of Buying Candies With Discount| 2144 |
 |     |   |   |
