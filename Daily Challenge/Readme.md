@@ -34,4 +34,19 @@
 | 30  |  Block Placement Queries | 3161  |
 | 31  | Destroying Asteroids  | 2126 |
 | 32  | Minimum Cost of Buying Candies With Discount| 2144 |
+| 33  | Earliest Finish Time for Land and Water Rides I | 3633 |
+| 34  | Earliest Finish Time for Land and Water Rides II  |3635 |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
 |     |   |   |
