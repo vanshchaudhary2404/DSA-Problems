@@ -36,8 +36,8 @@
 | 32  | Minimum Cost of Buying Candies With Discount| 2144 |
 | 33  | Earliest Finish Time for Land and Water Rides I | 3633 |
 | 34  | Earliest Finish Time for Land and Water Rides II  |3635 |
-|     |   |   |
-|     |   |   |
+| 35  |Total Waviness of Numbers in Range I  |  3751 |
+| 36  |Total Waviness of Numbers in Range II  | 3753 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
