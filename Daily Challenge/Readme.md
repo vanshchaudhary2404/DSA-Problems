@@ -38,7 +38,7 @@
 | 34  | Earliest Finish Time for Land and Water Rides II  |3635 |
 | 35  |Total Waviness of Numbers in Range I  |  3751 |
 | 36  |Total Waviness of Numbers in Range II  | 3753 |
-|     |   |   |
+| 37  | Left and Right Sum Differences  | 2574  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
