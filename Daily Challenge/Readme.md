@@ -39,7 +39,7 @@
 | 35  |Total Waviness of Numbers in Range I  |  3751 |
 | 36  |Total Waviness of Numbers in Range II  | 3753 |
 | 37  | Left and Right Sum Differences  | 2574  |
-|     |   |   |
+| 38  | Create Binary Tree From Descriptions  | 2196  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
