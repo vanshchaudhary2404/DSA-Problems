@@ -55,7 +55,7 @@
 | 32 | Morris Preorder Traversal | Medium | https://www.geeksforgeeks.org/morris-traversal-for-preorder/ |
 | 33 | Morris Inorder Traversal | Medium | https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/ |
 | 34 | Flatten Binary Tree to Linked List | Medium | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ |
-
+|35 |2196. Create Binary Tree From Descriptions|Medium| https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2026-06-07|
 ---
 
 ### 🔹 Most Asked Patterns in Interviews
