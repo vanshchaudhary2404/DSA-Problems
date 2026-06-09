@@ -41,7 +41,7 @@
 | 37  | Left and Right Sum Differences  | 2574  |
 | 38  | Create Binary Tree From Descriptions  | 2196  |
 | 39  | Partition Array According to Given Pivot | 2161 |
-|     |   |   |
+| 40  | Maximum Total Subarray Value I  | 3689  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
