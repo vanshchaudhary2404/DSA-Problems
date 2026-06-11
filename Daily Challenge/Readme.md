@@ -43,7 +43,7 @@
 | 39  | Partition Array According to Given Pivot | 2161 |
 | 40  | Maximum Total Subarray Value I  | 3689  |
 | 41  | Maximum Total Subarray Value II  | 3691  |
-|     |   |   |
+| 44 | Number of Ways to Assign Edge Weights I  |3558 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
