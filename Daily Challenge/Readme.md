@@ -45,7 +45,7 @@
 | 41  | Maximum Total Subarray Value II  | 3691  |
 | 44 | Number of Ways to Assign Edge Weights I  |3558 |
 | 45  | Number of Ways to Assign Edge Weights II  |3559 |
-|     |   |   |
+| 46  | Weighted Word Mapping  |3838 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
