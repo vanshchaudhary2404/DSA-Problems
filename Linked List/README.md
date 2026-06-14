@@ -34,6 +34,7 @@ This repository contains solutions to important **Linked List** and **Design** p
 |23 | Partition List | Medium | https://leetcode.com/problems/partition-list/ |
 |24 | Reorder List | Medium | https://leetcode.com/problems/reorder-list/ |
 |25 | Split Linked List in Parts | Medium | https://leetcode.com/problems/split-linked-list-in-parts/ |
+|26 | Maximum Twin Sum of a Linked List | https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/?envType=daily-question&envId=2026-06-14 |
 
 ---
 
