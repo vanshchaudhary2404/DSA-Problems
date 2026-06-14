@@ -46,7 +46,7 @@
 | 44 | Number of Ways to Assign Edge Weights I  |3558 |
 | 45  | Number of Ways to Assign Edge Weights II  |3559 |
 | 46  | Weighted Word Mapping  |3838 |
-|     |   |   |
+| 47  | Maximum Twin Sum of a Linked List  | 2130  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
