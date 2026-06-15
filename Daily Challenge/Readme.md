@@ -47,6 +47,6 @@
 | 45  | Number of Ways to Assign Edge Weights II  |3559 |
 | 46  | Weighted Word Mapping  |3838 |
 | 47  | Maximum Twin Sum of a Linked List  | 2130  |
-|     |   |   |
+| 48  | Delete the Middle Node of a Linked List  |2095 |
 |     |   |   |
 |     |   |   |
