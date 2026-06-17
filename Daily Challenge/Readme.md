@@ -49,7 +49,7 @@
 | 47  | Maximum Twin Sum of a Linked List  | 2130  |
 | 48  | Delete the Middle Node of a Linked List  |2095 |
 | 49  | Process String with Special Operations I  | 3612 |
-|     |   |   |
+| 50  | Process String with Special Operations II  | 3614 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
