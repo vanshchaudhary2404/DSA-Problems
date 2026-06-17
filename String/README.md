@@ -28,7 +28,7 @@ A curated collection of important **String Data Structures & Algorithms problems
 | 18 | Longest Substring Without Repeating Characters | LeetCode | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | 19 | Max Consecutive Ones III | LeetCode | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | 20 | Text Justification | LeetCode | https://leetcode.com/problems/text-justification/ |
-
+| 21 | Manual Parsing Version| LeetCode | https://leetcode.com/problems/simplify-path/description/ |
 ---
 
 ## 📚 Topics Covered
