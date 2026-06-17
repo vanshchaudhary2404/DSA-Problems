@@ -59,7 +59,7 @@ It covers concepts like:
 | 36 | Reverse Pairs | LeetCode | https://leetcode.com/problems/reverse-pairs/ |
 | 37 | Maximum Product Subarray | LeetCode | https://leetcode.com/problems/maximum-product-subarray/ |
 | 38 | First Missing Positive | LeetCode | https://leetcode.com/problems/first-missing-positive/ |
-
+| 39 |  Find All Numbers Disappeared in an Array | LeetCode | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ | 
 ---
 
 # 🔵 2D Array / Matrix Problems
