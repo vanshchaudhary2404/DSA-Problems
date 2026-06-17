@@ -58,6 +58,7 @@ It covers concepts like:
 | 35 | Count Inversions | GFG | https://www.geeksforgeeks.org/count-inversions-in-an-array/ |
 | 36 | Reverse Pairs | LeetCode | https://leetcode.com/problems/reverse-pairs/ |
 | 37 | Maximum Product Subarray | LeetCode | https://leetcode.com/problems/maximum-product-subarray/ |
+| 38 | First Missing Positive | LeetCode | https://leetcode.com/problems/first-missing-positive/ |
 
 ---
 
