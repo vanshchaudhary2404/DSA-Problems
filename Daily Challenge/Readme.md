@@ -50,7 +50,7 @@
 | 48  | Delete the Middle Node of a Linked List  |2095 |
 | 49  | Process String with Special Operations I  | 3612 |
 | 50  | Process String with Special Operations II  | 3614 |
-|     |   |   |
+| 51  | Angle Between Hands of a Clock  | 1344 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
