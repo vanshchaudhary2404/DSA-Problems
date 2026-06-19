@@ -51,7 +51,7 @@
 | 49  | Process String with Special Operations I  | 3612 |
 | 50  | Process String with Special Operations II  | 3614 |
 | 51  | Angle Between Hands of a Clock  | 1344 |
-|     |   |   |
+| 51  | Find the Highest Altitude  | 1732  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
