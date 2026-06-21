@@ -53,7 +53,7 @@
 | 51  | Angle Between Hands of a Clock  | 1344 |
 | 51  | Find the Highest Altitude  | 1732  |
 | 52  | Maximum Building Height  | 1840  |
-|     |   |   |
+| 53  | Maximum Ice Cream Bars  | 1833 |
 |     |   |   |
 |     |   |   |
 |     |   |   |
