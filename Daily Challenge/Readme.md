@@ -54,6 +54,6 @@
 | 51  | Find the Highest Altitude  | 1732  |
 | 52  | Maximum Building Height  | 1840  |
 | 53  | Maximum Ice Cream Bars  | 1833 |
-|     |   |   |
+| 54  | Maximum Number of Balloons  | 1189  |
 |     |   |   |
 |     |   |   |
