@@ -29,7 +29,7 @@ A curated collection of important **String Data Structures & Algorithms problems
 | 19 | Max Consecutive Ones III | LeetCode | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | 20 | Text Justification | LeetCode | https://leetcode.com/problems/text-justification/ |
 | 21 | Manual Parsing Version| LeetCode | https://leetcode.com/problems/simplify-path/description/ |
----
+|---| ---| --- | ---- | 
 | 22 | Maximum Number of Balloons | Leetcode | https://leetcode.com/problems/maximum-number-of-balloons/ |
 | 23 | Rearrange Characters to Make Target String | LeetCode | https://leetcode.com/problems/rearrange-characters-to-make-target-string/ |
 
