@@ -55,5 +55,25 @@
 | 52  | Maximum Building Height  | 1840  |
 | 53  | Maximum Ice Cream Bars  | 1833 |
 | 54  | Maximum Number of Balloons  | 1189  |
+| 55  | Number of ZigZag Arrays I  | 3699  |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
 |     |   |   |
 |     |   |   |
