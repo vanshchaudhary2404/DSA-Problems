@@ -35,8 +35,7 @@ This repository contains solutions to important **Linked List** and **Design** p
 |24 | Reorder List | Medium | https://leetcode.com/problems/reorder-list/ |
 |25 | Split Linked List in Parts | Medium | https://leetcode.com/problems/split-linked-list-in-parts/ |
 |26 | Maximum Twin Sum of a Linked List | Medium | https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/?envType=daily-question&envId=2026-06-14 |
-| 27| Reorder List | Medium | https://leetcode.com/problems/reorder-list/ |
-| 28 | Merge k Sorted Lists | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
+|27 | Merge k Sorted Lists | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
 ---
 
 ## 🧠 Concepts Covered
