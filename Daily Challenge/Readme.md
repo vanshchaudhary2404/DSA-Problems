@@ -56,8 +56,8 @@
 | 53  | Maximum Ice Cream Bars  | 1833 |
 | 54  | Maximum Number of Balloons  | 1189  |
 | 55  | Number of ZigZag Arrays I  | 3699  |
-|     |   |   |
-|     |   |   |
+| 56  | Count Subarrays With Majority Element I  | 3737  |
+| 57  | Count Subarrays With Majority Element II  | 3739  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
