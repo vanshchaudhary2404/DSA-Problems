@@ -58,9 +58,9 @@
 | 55  | Number of ZigZag Arrays I  | 3699  |
 | 56  | Count Subarrays With Majority Element I  | 3737  |
 | 57  | Count Subarrays With Majority Element II  | 3739  |
-|     |   |   |
-|     |   |   |
-|     |   |   |
+| 58  | Find the Maximum Number of Elements in Subset  | 3020  |
+| 59  | Maximum Element After Decreasing and Rearranging  | 1846  |
+| 60  | Number of Strings That Appear as Substrings in Word  | 1967  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
