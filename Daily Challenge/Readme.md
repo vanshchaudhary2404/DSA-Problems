@@ -61,9 +61,9 @@
 | 58  | Find the Maximum Number of Elements in Subset  | 3020  |
 | 59  | Maximum Element After Decreasing and Rearranging  | 1846  |
 | 60  | Number of Strings That Appear as Substrings in Word  | 1967  |
-|     |   |   |
-|     |   |   |
-|     |   |   |
+| 61  | Count of Substrings Containing Every Vowel and K Consonants II  | 3306  |
+| 62  | Number of Substrings Containing All Three Characters  | 1358  |
+| 63  |  Vowels of All Substrings (extra) | 2063  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
