@@ -32,6 +32,10 @@ A curated collection of important **String Data Structures & Algorithms problems
 |---| ---| --- | ---- | 
 | 22 | Maximum Number of Balloons | Leetcode | https://leetcode.com/problems/maximum-number-of-balloons/ |
 | 23 | Rearrange Characters to Make Target String | LeetCode | https://leetcode.com/problems/rearrange-characters-to-make-target-string/ |
+| 24 | 3306. Count of Substrings Containing Every Vowel and K Consonants II | Medium | https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/ |
+|25 | 1358. Number of Substrings Containing All Three Characters | Medium | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ |
+| 26 | 2063. Vowels of All Substrings | Medium | https://leetcode.com/problems/vowels-of-all-substrings/ |
+
 
 ## 📚 Topics Covered
 
