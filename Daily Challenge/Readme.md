@@ -64,12 +64,12 @@
 | 61  | Count of Substrings Containing Every Vowel and K Consonants II  | 3306  |
 | 62  | Number of Substrings Containing All Three Characters  | 1358  |
 | 63  |  Vowels of All Substrings (extra) | 2063  |
-|     |   |   |
-|     |   |   |
-|     |   |   |
-|     |   |   |
-|     |   |   |
-|     |   |   |
+| 64  | Find the Safest Path in a Grid  | 2812 |
+| 65  | Find a Safe Walk Through a Grid  | 3286   |
+| 66  | Network Recovery Pathways  |  3620 |
+| 67  | Number of Paths with Max Score  | 1301  |
+| 68  | Remove Covered Intervals  | 1288  |
+| 69  |   |   |
 |     |   |   |
 |     |   |   |
 |     |   |   |
