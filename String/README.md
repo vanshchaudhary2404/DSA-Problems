@@ -9,6 +9,7 @@ A curated collection of important **String Data Structures & Algorithms problems
 | #  | Problem Name | Platform | Link |
 |----|-------------|----------|------|
 | 1  | Valid Palindrome | LeetCode | https://leetcode.com/problems/valid-palindrome/ |
+| 2  | Concatenate Non-Zero Digits and Multiply by Sum I | LeetCode | https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i |
 | 2  | Reverse String | LeetCode | https://leetcode.com/problems/reverse-string/ |
 | 3  | Remove All Occurrences of a Substring | LeetCode | https://leetcode.com/problems/remove-all-occurrences-of-a-substring/ |
 | 4  | Permutation in String | LeetCode | https://leetcode.com/problems/permutation-in-string/ |
