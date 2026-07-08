@@ -70,7 +70,7 @@
 | 67  | Number of Paths with Max Score  | 1301  |
 | 68  | Remove Covered Intervals  | 1288  |
 | 69  | Concatenate Non-Zero Digits and Multiply by Sum I  | 3754  |
-|     |   |   |
+| 70 | Concatenate Non-Zero Digits and Multiply by Sum II  | 3756  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
