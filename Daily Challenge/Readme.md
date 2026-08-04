@@ -74,6 +74,6 @@
 |     |   |   |
 |     |   |   |
 |     |   |   |
-|     |   |   |
-|     |   |   |
+|  -- | Stone Game  | 877  |
+|  --  | Stone Game III   | 1406  |
 |  --  | Find Missing Elements  | 3731  |
