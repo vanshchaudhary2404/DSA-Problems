@@ -79,3 +79,4 @@
 |  --  | Find Missing Elements  | 3731  |
 | -- | Remove Methods From Project| 3310 |
 | -- | Smallest Divisible Digit Product I| 3345 |
+| -- | Predict the Winner | 486 |
