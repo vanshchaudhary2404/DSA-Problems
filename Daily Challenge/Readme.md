@@ -72,11 +72,11 @@
 | 69  | Concatenate Non-Zero Digits and Multiply by Sum I  | 3754  |
 | 70 | Concatenate Non-Zero Digits and Multiply by Sum II  | 3756  |
 | -- | Predict the Winner | 486 |
-|  -- | Stone Game  | 877  |
-|  --  | Stone Game III   | 1406  |
-|  --  | Find Missing Elements  | 3731  |
+| -- | Stone Game  | 877  |
+| -- | Stone Game III   | 1406  |
+| -- | Find Missing Elements  | 3731  |
 | -- | Remove Methods From Project| 3310 |
 | -- | Smallest Divisible Digit Product I| 3345 |
-|  -- | Smallest Missing Integer Greater Than Sequential Prefix Sum  | 2996  |
-|     |   |   |
+| -- | Smallest Missing Integer Greater Than Sequential Prefix Sum  | 2996  |
+| -- | Stone Game IV  | 1510  |
 |     |   |   |
