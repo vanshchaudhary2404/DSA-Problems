@@ -79,4 +79,11 @@
 | -- | Smallest Divisible Digit Product I| 3345 |
 | -- | Smallest Missing Integer Greater Than Sequential Prefix Sum  | 2996  |
 | -- | Stone Game IV  | 1510  |
+| -- | Longest Substring of One Repeating Character  | 2213  |
+| -- | Length of Longest Subarray With at Most K Frequency  | 2958  |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
 |     |   |   |
