@@ -81,7 +81,7 @@
 | -- | Stone Game IV  | 1510  |
 | -- | Longest Substring of One Repeating Character  | 2213  |
 | -- | Length of Longest Subarray With at Most K Frequency  | 2958  |
-|     |   |   |
+| -- | Maximum Length Substring With Two Occurrences  | 3090  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
