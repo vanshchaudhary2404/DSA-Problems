@@ -83,7 +83,7 @@
 | -- | Length of Longest Subarray With at Most K Frequency  | 2958  |
 | -- | Maximum Length Substring With Two Occurrences  | 3090  |
 | -- | Lexicographically Smallest String After a Swap  | 3216  |
-|     |   |   |
+| -- | Longest Subsequence With Non-Zero Bitwise XOR  | 3702  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
