@@ -85,5 +85,5 @@
 | -- | Lexicographically Smallest String After a Swap  | 3216  |
 | -- | Longest Subsequence With Non-Zero Bitwise XOR  | 3702  |
 | -- | Count Pairs Whose Sum is Less than Target  | 2824  |
-|     |   |   |
+|  -- | Find the Largest Almost Missing Integer  | 3471  |
 |     |   |   |
