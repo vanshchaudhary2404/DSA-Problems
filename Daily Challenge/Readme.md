@@ -86,4 +86,6 @@
 | -- | Longest Subsequence With Non-Zero Bitwise XOR  | 3702  |
 | -- | Count Pairs Whose Sum is Less than Target  | 2824  |
 |  -- | Find the Largest Almost Missing Integer  | 3471  |
+|  -- | Divide Array Into Equal Pairs  | 2206 |
+|  -- | Distribute Elements Into Two Arrays I  | 3069  |
 |     |   |   |
