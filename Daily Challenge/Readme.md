@@ -88,4 +88,17 @@
 |  -- | Find the Largest Almost Missing Integer  | 3471  |
 |  -- | Divide Array Into Equal Pairs  | 2206 |
 |  -- | Distribute Elements Into Two Arrays I  | 3069  |
+|  -- | Find the Minimum and Maximum Number of Nodes Between Critical Points  | 2058  |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
+|     |   |   |
 |     |   |   |
