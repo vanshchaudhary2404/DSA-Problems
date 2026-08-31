@@ -37,6 +37,7 @@ This repository contains solutions to important **Linked List** and **Design** p
 |26 | Maximum Twin Sum of a Linked List | Medium | https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/?envType=daily-question&envId=2026-06-14 |
 |27 | Merge k Sorted Lists | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
 |28 |Pair Sum in Doubly Linked List| Medium |https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1|
+|29 |Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium |https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ | 
 ---
 
 ## 🧠 Concepts Covered
