@@ -89,8 +89,8 @@
 |  -- | Divide Array Into Equal Pairs  | 2206 |
 |  -- | Distribute Elements Into Two Arrays I  | 3069  |
 |  -- | Find the Minimum and Maximum Number of Nodes Between Critical Points  | 2058  |
-|     |   |   |
-|     |   |   |
+|  -- | Sum Game  | 927  |
+|  -- | Check Divisibility by Digit Sum and Product  | 3622  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
