@@ -91,7 +91,7 @@
 |  -- | Find the Minimum and Maximum Number of Nodes Between Critical Points  | 2058  |
 |  -- | Sum Game  | 927  |
 |  -- | Check Divisibility by Digit Sum and Product  | 3622  |
-|     |   |   |
+|  -- | Construct Uniform Parity Array I  | 3857  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
