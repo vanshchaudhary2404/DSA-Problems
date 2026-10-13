@@ -93,7 +93,7 @@
 |  -- | Check Divisibility by Digit Sum and Product  | 3622  |
 |  -- | Construct Uniform Parity Array I  | 3857  |
 |  -- | Construct Uniform Parity Array II  | 3876  |
-|     |   |   |
+|  -- | Maximum Alternating Sum of Squares  | 3272  |
 |     |   |   |
 |     |   |   |
 |     |   |   |
