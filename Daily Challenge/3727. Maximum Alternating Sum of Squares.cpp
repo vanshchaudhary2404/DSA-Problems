@@ -1,0 +1,35 @@
+class Solution {
+public:
+    long long maxAlternatingSum(vector<int>& nums) {
+        //Apporch 1 with time compleity -> O(NlogN)
+        /*int n = nums.size();
+
+        for(int i=0; i<n; i++){
+            nums[i] = nums[i]* nums[i];
+        }
+
+        sort(begin(nums) , end(nums));
+        long long largerHalf = accumulate(begin(nums)+n/2 , end(nums) , 0LL);
+        long long smallerHalf = accumulate(begin(nums) , begin(nums)+n/2 , 0LL);
+
+
+        return largerHalf - smallerHalf;
+        */
+
+        //approach 2 T.C -> O(N);
+        int n = nums.size();
+
+        for(int i=0; i<n; i++){//O(N)
+            nums[i] = nums[i]* nums[i];
+        }
+
+        nth_element(begin(nums) , begin(nums)+n/2 , end(nums));//O(N)
+
+        long long largerHalf = accumulate(begin(nums)+n/2 , end(nums) , 0LL);//O(N)
+        long long smallerHalf = accumulate(begin(nums) , begin(nums)+n/2 , 0LL);//O(N)
+
+
+        return largerHalf - smallerHalf;
+
+    }
+};
